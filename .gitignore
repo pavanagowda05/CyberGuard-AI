@@ -1,0 +1,12 @@
+﻿venv/
+__pycache__/
+*.pyc
+.env
+*.env
+models/phishing_model/
+training/
+phishing_data.zip
+url_debug.txt
+.vscode/
+*.log
+data/processed/*.csv

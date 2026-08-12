@@ -1,0 +1,4730 @@
+{
+  "brands": [
+    {
+      "name": "PayPal",
+      "domains": [
+        "paypal.com"
+      ],
+      "category": "Finance"
+    },
+    {
+      "name": "Microsoft",
+      "domains": [
+        "microsoft.com",
+        "live.com",
+        "outlook.com",
+        "hotmail.com",
+        "office.com",
+        "azure.com",
+        "msn.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Google",
+      "domains": [
+        "google.com",
+        "gmail.com",
+        "googlemail.com",
+        "youtube.com",
+        "google.co.in"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Apple",
+      "domains": [
+        "apple.com",
+        "icloud.com",
+        "me.com",
+        "mac.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Amazon",
+      "domains": [
+        "amazon.com",
+        "amazon.in",
+        "amazon.co.uk",
+        "aws.amazon.com",
+        "amazonpay.in"
+      ],
+      "category": "Ecommerce"
+    },
+    {
+      "name": "Netflix",
+      "domains": [
+        "netflix.com"
+      ],
+      "category": "Entertainment"
+    },
+    {
+      "name": "Facebook",
+      "domains": [
+        "facebook.com",
+        "fb.com",
+        "messenger.com"
+      ],
+      "category": "Social"
+    },
+    {
+      "name": "Instagram",
+      "domains": [
+        "instagram.com"
+      ],
+      "category": "Social"
+    },
+    {
+      "name": "Twitter",
+      "domains": [
+        "twitter.com",
+        "x.com",
+        "t.co"
+      ],
+      "category": "Social"
+    },
+    {
+      "name": "LinkedIn",
+      "domains": [
+        "linkedin.com"
+      ],
+      "category": "Social"
+    },
+    {
+      "name": "WhatsApp",
+      "domains": [
+        "whatsapp.com",
+        "whatsapp.net"
+      ],
+      "category": "Social"
+    },
+    {
+      "name": "Dropbox",
+      "domains": [
+        "dropbox.com"
+      ],
+      "category": "Storage"
+    },
+    {
+      "name": "Adobe",
+      "domains": [
+        "adobe.com",
+        "adobecc.com",
+        "acrobat.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "eBay",
+      "domains": [
+        "ebay.com",
+        "ebay.in",
+        "ebay.co.uk"
+      ],
+      "category": "Ecommerce"
+    },
+    {
+      "name": "DHL",
+      "domains": [
+        "dhl.com",
+        "dhl.de",
+        "dhl.co.in"
+      ],
+      "category": "Delivery"
+    },
+    {
+      "name": "FedEx",
+      "domains": [
+        "fedex.com",
+        "fedex.in"
+      ],
+      "category": "Delivery"
+    },
+    {
+      "name": "UPS",
+      "domains": [
+        "ups.com"
+      ],
+      "category": "Delivery"
+    },
+    {
+      "name": "Spotify",
+      "domains": [
+        "spotify.com"
+      ],
+      "category": "Entertainment"
+    },
+    {
+      "name": "Zoom",
+      "domains": [
+        "zoom.us",
+        "zoom.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Slack",
+      "domains": [
+        "slack.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "GitHub",
+      "domains": [
+        "github.com",
+        "githubusercontent.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "DocuSign",
+      "domains": [
+        "docusign.com",
+        "docusign.net"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Salesforce",
+      "domains": [
+        "salesforce.com",
+        "force.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Stripe",
+      "domains": [
+        "stripe.com"
+      ],
+      "category": "Finance"
+    },
+    {
+      "name": "Square",
+      "domains": [
+        "squareup.com",
+        "square.com"
+      ],
+      "category": "Finance"
+    },
+    {
+      "name": "Coinbase",
+      "domains": [
+        "coinbase.com"
+      ],
+      "category": "Crypto"
+    },
+    {
+      "name": "Binance",
+      "domains": [
+        "binance.com",
+        "binance.us"
+      ],
+      "category": "Crypto"
+    },
+    {
+      "name": "Chase",
+      "domains": [
+        "chase.com",
+        "jpmorganchase.com"
+      ],
+      "category": "Banking"
+    },
+    {
+      "name": "Bank of America",
+      "domains": [
+        "bankofamerica.com",
+        "bofa.com"
+      ],
+      "category": "Banking"
+    },
+    {
+      "name": "Wells Fargo",
+      "domains": [
+        "wellsfargo.com"
+      ],
+      "category": "Banking"
+    },
+    {
+      "name": "Citibank",
+      "domains": [
+        "citi.com",
+        "citibank.com",
+        "citigroup.com"
+      ],
+      "category": "Banking"
+    },
+    {
+      "name": "HSBC",
+      "domains": [
+        "hsbc.com",
+        "hsbc.co.in",
+        "hsbc.co.uk"
+      ],
+      "category": "Banking"
+    },
+    {
+      "name": "Barclays",
+      "domains": [
+        "barclays.com",
+        "barclays.co.uk"
+      ],
+      "category": "Banking"
+    },
+    {
+      "name": "American Express",
+      "domains": [
+        "americanexpress.com",
+        "amex.com"
+      ],
+      "category": "Finance"
+    },
+    {
+      "name": "Visa",
+      "domains": [
+        "visa.com"
+      ],
+      "category": "Finance"
+    },
+    {
+      "name": "Mastercard",
+      "domains": [
+        "mastercard.com"
+      ],
+      "category": "Finance"
+    },
+    {
+      "name": "SBI",
+      "domains": [
+        "sbi.co.in",
+        "onlinesbi.com",
+        "sbi.in",
+        "sbionline.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "HDFC Bank",
+      "domains": [
+        "hdfcbank.com",
+        "hdfc.com",
+        "hdfclife.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "ICICI Bank",
+      "domains": [
+        "icicibank.com",
+        "icici.com",
+        "icicidirect.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Axis Bank",
+      "domains": [
+        "axisbank.com",
+        "axisbank.in"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Kotak Mahindra",
+      "domains": [
+        "kotak.com",
+        "kotakbank.com",
+        "kotak811.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Punjab National Bank",
+      "domains": [
+        "pnbindia.in",
+        "pnb.co.in",
+        "netpnb.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Bank of Baroda",
+      "domains": [
+        "bankofbaroda.in",
+        "bankofbaroda.com",
+        "bobibanking.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Canara Bank",
+      "domains": [
+        "canarabank.com",
+        "canarabank.in"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Union Bank",
+      "domains": [
+        "unionbankofindia.co.in",
+        "unionbankonline.co.in"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Indian Bank",
+      "domains": [
+        "indianbank.in",
+        "indianbank.net.in"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "IDBI Bank",
+      "domains": [
+        "idbibank.in",
+        "idbi.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Yes Bank",
+      "domains": [
+        "yesbank.in"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "IndusInd Bank",
+      "domains": [
+        "indusind.com",
+        "indusindbank.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Federal Bank",
+      "domains": [
+        "federalbank.co.in"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "RBL Bank",
+      "domains": [
+        "rblbank.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "IDFC First Bank",
+      "domains": [
+        "idfcfirstbank.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "PayTM",
+      "domains": [
+        "paytm.com",
+        "paytmbank.com",
+        "paytmmoney.com"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "PhonePe",
+      "domains": [
+        "phonepe.com"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "Google Pay",
+      "domains": [
+        "gpay.app",
+        "pay.google.com"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "BHIM",
+      "domains": [
+        "bhimupi.npci.org.in",
+        "npci.org.in"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "Razorpay",
+      "domains": [
+        "razorpay.com"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "BillDesk",
+      "domains": [
+        "billdesk.com"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "MobiKwik",
+      "domains": [
+        "mobikwik.com"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "FreeCharge",
+      "domains": [
+        "freecharge.in",
+        "freecharge.com"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "Cred",
+      "domains": [
+        "cred.club"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "Groww",
+      "domains": [
+        "groww.in"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "Zerodha",
+      "domains": [
+        "zerodha.com",
+        "kite.zerodha.com"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "Upstox",
+      "domains": [
+        "upstox.com"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "Angel One",
+      "domains": [
+        "angelone.in",
+        "angelbroking.com"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "Flipkart",
+      "domains": [
+        "flipkart.com",
+        "fkrt.it"
+      ],
+      "category": "Ecommerce India"
+    },
+    {
+      "name": "Myntra",
+      "domains": [
+        "myntra.com"
+      ],
+      "category": "Ecommerce India"
+    },
+    {
+      "name": "Snapdeal",
+      "domains": [
+        "snapdeal.com"
+      ],
+      "category": "Ecommerce India"
+    },
+    {
+      "name": "Meesho",
+      "domains": [
+        "meesho.com",
+        "meesho.io"
+      ],
+      "category": "Ecommerce India"
+    },
+    {
+      "name": "Nykaa",
+      "domains": [
+        "nykaa.com",
+        "nykaa.in"
+      ],
+      "category": "Ecommerce India"
+    },
+    {
+      "name": "BigBasket",
+      "domains": [
+        "bigbasket.com"
+      ],
+      "category": "Ecommerce India"
+    },
+    {
+      "name": "Grofers",
+      "domains": [
+        "grofers.com",
+        "blinkit.com"
+      ],
+      "category": "Ecommerce India"
+    },
+    {
+      "name": "JioMart",
+      "domains": [
+        "jiomart.com"
+      ],
+      "category": "Ecommerce India"
+    },
+    {
+      "name": "Tata CLiQ",
+      "domains": [
+        "tatacliq.com"
+      ],
+      "category": "Ecommerce India"
+    },
+    {
+      "name": "Ajio",
+      "domains": [
+        "ajio.com"
+      ],
+      "category": "Ecommerce India"
+    },
+    {
+      "name": "Swiggy",
+      "domains": [
+        "swiggy.com"
+      ],
+      "category": "Food India"
+    },
+    {
+      "name": "Zomato",
+      "domains": [
+        "zomato.com"
+      ],
+      "category": "Food India"
+    },
+    {
+      "name": "Dunzo",
+      "domains": [
+        "dunzo.com",
+        "dunzo.in"
+      ],
+      "category": "Food India"
+    },
+    {
+      "name": "Ola",
+      "domains": [
+        "olacabs.com",
+        "ola.com",
+        "olamoney.com"
+      ],
+      "category": "Transport India"
+    },
+    {
+      "name": "Uber",
+      "domains": [
+        "uber.com",
+        "ubereats.com"
+      ],
+      "category": "Transport"
+    },
+    {
+      "name": "Rapido",
+      "domains": [
+        "rapido.bike"
+      ],
+      "category": "Transport India"
+    },
+    {
+      "name": "MakeMyTrip",
+      "domains": [
+        "makemytrip.com",
+        "mmt.com"
+      ],
+      "category": "Travel India"
+    },
+    {
+      "name": "GoIbibo",
+      "domains": [
+        "goibibo.com"
+      ],
+      "category": "Travel India"
+    },
+    {
+      "name": "Yatra",
+      "domains": [
+        "yatra.com"
+      ],
+      "category": "Travel India"
+    },
+    {
+      "name": "IRCTC",
+      "domains": [
+        "irctc.co.in",
+        "irctc.com",
+        "indianrail.gov.in"
+      ],
+      "category": "Travel India"
+    },
+    {
+      "name": "IndiGo",
+      "domains": [
+        "goindigo.in",
+        "indigo.in"
+      ],
+      "category": "Travel India"
+    },
+    {
+      "name": "Air India",
+      "domains": [
+        "airindia.in",
+        "airindia.com"
+      ],
+      "category": "Travel India"
+    },
+    {
+      "name": "SpiceJet",
+      "domains": [
+        "spicejet.com"
+      ],
+      "category": "Travel India"
+    },
+    {
+      "name": "Vistara",
+      "domains": [
+        "airvistara.com"
+      ],
+      "category": "Travel India"
+    },
+    {
+      "name": "Airtel",
+      "domains": [
+        "airtel.in",
+        "airtel.com",
+        "airtelbank.com"
+      ],
+      "category": "Telecom India"
+    },
+    {
+      "name": "Jio",
+      "domains": [
+        "jio.com",
+        "jiocinema.com",
+        "jiomoney.com",
+        "jiosecurity.com"
+      ],
+      "category": "Telecom India"
+    },
+    {
+      "name": "Vodafone Idea",
+      "domains": [
+        "vodafoneidea.com",
+        "vi.in",
+        "vodafone.in",
+        "myvi.in"
+      ],
+      "category": "Telecom India"
+    },
+    {
+      "name": "BSNL",
+      "domains": [
+        "bsnl.co.in",
+        "bsnl.in"
+      ],
+      "category": "Telecom India"
+    },
+    {
+      "name": "MTNL",
+      "domains": [
+        "mtnl.net.in",
+        "mtnl.in"
+      ],
+      "category": "Telecom India"
+    },
+    {
+      "name": "Tata Teleservices",
+      "domains": [
+        "tatadocomobusiness.com",
+        "tatatele.com"
+      ],
+      "category": "Telecom India"
+    },
+    {
+      "name": "Infosys",
+      "domains": [
+        "infosys.com"
+      ],
+      "category": "IT India"
+    },
+    {
+      "name": "TCS",
+      "domains": [
+        "tcs.com",
+        "tata.com"
+      ],
+      "category": "IT India"
+    },
+    {
+      "name": "Wipro",
+      "domains": [
+        "wipro.com"
+      ],
+      "category": "IT India"
+    },
+    {
+      "name": "HCL",
+      "domains": [
+        "hcltech.com",
+        "hcl.com"
+      ],
+      "category": "IT India"
+    },
+    {
+      "name": "Tech Mahindra",
+      "domains": [
+        "techmahindra.com"
+      ],
+      "category": "IT India"
+    },
+    {
+      "name": "LIC",
+      "domains": [
+        "licindia.in",
+        "licindia.com",
+        "lic.in"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "SBI Life",
+      "domains": [
+        "sbilife.co.in"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "HDFC Life",
+      "domains": [
+        "hdfclife.com"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "ICICI Prudential",
+      "domains": [
+        "iciciprulife.com"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Bajaj Allianz",
+      "domains": [
+        "bajajallianz.com",
+        "bajajallianz.co.in"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Star Health",
+      "domains": [
+        "starhealth.in"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Niva Bupa",
+      "domains": [
+        "nivabupa.com",
+        "maxbupa.com"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "PolicyBazaar",
+      "domains": [
+        "policybazaar.com"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Aadhar UIDAI",
+      "domains": [
+        "uidai.gov.in",
+        "uidai.in",
+        "eaadhaar.uidai.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "Income Tax India",
+      "domains": [
+        "incometax.gov.in",
+        "incometaxindia.gov.in",
+        "efiling.incometax.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "GST Portal",
+      "domains": [
+        "gst.gov.in",
+        "gstn.org.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "EPFO",
+      "domains": [
+        "epfindia.gov.in",
+        "epfo.gov.in",
+        "unifiedportal-mem.epfindia.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "DigiLocker",
+      "domains": [
+        "digilocker.gov.in",
+        "digilocker.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "MyGov",
+      "domains": [
+        "mygov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "NSDL",
+      "domains": [
+        "nsdl.com",
+        "nsdl.co.in",
+        "tin.nsdl.com"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "CDSL",
+      "domains": [
+        "cdslindia.com",
+        "cdsl.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "RBI",
+      "domains": [
+        "rbi.org.in",
+        "rbi.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "SEBI",
+      "domains": [
+        "sebi.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "TRAI",
+      "domains": [
+        "trai.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "Post Office India",
+      "domains": [
+        "indiapost.gov.in",
+        "postinfo.ap.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "Passport India",
+      "domains": [
+        "passportindia.gov.in",
+        "passport.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "MCA India",
+      "domains": [
+        "mca.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "Samsung",
+      "domains": [
+        "samsung.com",
+        "samsung.net"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Sony",
+      "domains": [
+        "sony.com",
+        "sony.net",
+        "sonyentertainmentnetwork.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "LG",
+      "domains": [
+        "lg.com",
+        "lgelectronics.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Dell",
+      "domains": [
+        "dell.com",
+        "delltechnologies.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "HP",
+      "domains": [
+        "hp.com",
+        "hpe.com",
+        "hpshopping.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Lenovo",
+      "domains": [
+        "lenovo.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Asus",
+      "domains": [
+        "asus.com",
+        "asus.com.tw"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Acer",
+      "domains": [
+        "acer.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Xiaomi",
+      "domains": [
+        "mi.com",
+        "xiaomi.com",
+        "miui.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "OnePlus",
+      "domains": [
+        "oneplus.com",
+        "oneplus.in"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Realme",
+      "domains": [
+        "realme.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Vivo",
+      "domains": [
+        "vivo.com",
+        "vivo.in"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Oppo",
+      "domains": [
+        "oppo.com",
+        "oppo.com.cn"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Norton",
+      "domains": [
+        "norton.com",
+        "nortonlifelock.com"
+      ],
+      "category": "Security"
+    },
+    {
+      "name": "McAfee",
+      "domains": [
+        "mcafee.com",
+        "intel.com"
+      ],
+      "category": "Security"
+    },
+    {
+      "name": "Kaspersky",
+      "domains": [
+        "kaspersky.com",
+        "kaspersky.ru"
+      ],
+      "category": "Security"
+    },
+    {
+      "name": "Avast",
+      "domains": [
+        "avast.com",
+        "avg.com"
+      ],
+      "category": "Security"
+    },
+    {
+      "name": "Bitdefender",
+      "domains": [
+        "bitdefender.com"
+      ],
+      "category": "Security"
+    },
+    {
+      "name": "Malwarebytes",
+      "domains": [
+        "malwarebytes.com"
+      ],
+      "category": "Security"
+    },
+    {
+      "name": "Steam",
+      "domains": [
+        "steampowered.com",
+        "steamcommunity.com",
+        "steamgames.com"
+      ],
+      "category": "Gaming"
+    },
+    {
+      "name": "Epic Games",
+      "domains": [
+        "epicgames.com",
+        "fortnite.com"
+      ],
+      "category": "Gaming"
+    },
+    {
+      "name": "PlayStation",
+      "domains": [
+        "playstation.com",
+        "sonyentertainmentnetwork.com"
+      ],
+      "category": "Gaming"
+    },
+    {
+      "name": "Xbox",
+      "domains": [
+        "xbox.com",
+        "xboxlive.com"
+      ],
+      "category": "Gaming"
+    },
+    {
+      "name": "Roblox",
+      "domains": [
+        "roblox.com"
+      ],
+      "category": "Gaming"
+    },
+    {
+      "name": "Twitch",
+      "domains": [
+        "twitch.tv",
+        "twitch.com"
+      ],
+      "category": "Gaming"
+    },
+    {
+      "name": "Discord",
+      "domains": [
+        "discord.com",
+        "discordapp.com"
+      ],
+      "category": "Social"
+    },
+    {
+      "name": "Reddit",
+      "domains": [
+        "reddit.com",
+        "redd.it"
+      ],
+      "category": "Social"
+    },
+    {
+      "name": "Pinterest",
+      "domains": [
+        "pinterest.com",
+        "pin.it"
+      ],
+      "category": "Social"
+    },
+    {
+      "name": "TikTok",
+      "domains": [
+        "tiktok.com",
+        "bytedance.com"
+      ],
+      "category": "Social"
+    },
+    {
+      "name": "Snapchat",
+      "domains": [
+        "snapchat.com",
+        "snap.com"
+      ],
+      "category": "Social"
+    },
+    {
+      "name": "Telegram",
+      "domains": [
+        "telegram.org",
+        "t.me",
+        "telegram.me"
+      ],
+      "category": "Social"
+    },
+    {
+      "name": "Signal",
+      "domains": [
+        "signal.org",
+        "signal.app"
+      ],
+      "category": "Social"
+    },
+    {
+      "name": "WeChat",
+      "domains": [
+        "wechat.com",
+        "weixin.qq.com"
+      ],
+      "category": "Social"
+    },
+    {
+      "name": "Yahoo",
+      "domains": [
+        "yahoo.com",
+        "yahoo.in",
+        "yahoomail.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "AOL",
+      "domains": [
+        "aol.com",
+        "aim.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "iCloud",
+      "domains": [
+        "icloud.com",
+        "apple.com"
+      ],
+      "category": "Storage"
+    },
+    {
+      "name": "Google Drive",
+      "domains": [
+        "drive.google.com",
+        "docs.google.com"
+      ],
+      "category": "Storage"
+    },
+    {
+      "name": "OneDrive",
+      "domains": [
+        "onedrive.live.com",
+        "onedrive.com"
+      ],
+      "category": "Storage"
+    },
+    {
+      "name": "Box",
+      "domains": [
+        "box.com",
+        "boxcloud.com"
+      ],
+      "category": "Storage"
+    },
+    {
+      "name": "WeTransfer",
+      "domains": [
+        "wetransfer.com",
+        "we.tl"
+      ],
+      "category": "Storage"
+    },
+    {
+      "name": "Notion",
+      "domains": [
+        "notion.so",
+        "notion.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Trello",
+      "domains": [
+        "trello.com",
+        "atlassian.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Jira",
+      "domains": [
+        "jira.com",
+        "atlassian.net"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Confluence",
+      "domains": [
+        "confluence.com",
+        "atlassian.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "HubSpot",
+      "domains": [
+        "hubspot.com",
+        "hs-sites.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Mailchimp",
+      "domains": [
+        "mailchimp.com",
+        "mcusercontent.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Shopify",
+      "domains": [
+        "shopify.com",
+        "myshopify.com"
+      ],
+      "category": "Ecommerce"
+    },
+    {
+      "name": "WooCommerce",
+      "domains": [
+        "woocommerce.com"
+      ],
+      "category": "Ecommerce"
+    },
+    {
+      "name": "Etsy",
+      "domains": [
+        "etsy.com"
+      ],
+      "category": "Ecommerce"
+    },
+    {
+      "name": "Alibaba",
+      "domains": [
+        "alibaba.com",
+        "aliexpress.com",
+        "alipay.com",
+        "taobao.com"
+      ],
+      "category": "Ecommerce"
+    },
+    {
+      "name": "Rakuten",
+      "domains": [
+        "rakuten.com",
+        "rakuten.co.jp"
+      ],
+      "category": "Ecommerce"
+    },
+    {
+      "name": "Walmart",
+      "domains": [
+        "walmart.com",
+        "walmartlabs.com"
+      ],
+      "category": "Ecommerce"
+    },
+    {
+      "name": "Target",
+      "domains": [
+        "target.com"
+      ],
+      "category": "Ecommerce"
+    },
+    {
+      "name": "Best Buy",
+      "domains": [
+        "bestbuy.com"
+      ],
+      "category": "Ecommerce"
+    },
+    {
+      "name": "Booking.com",
+      "domains": [
+        "booking.com"
+      ],
+      "category": "Travel"
+    },
+    {
+      "name": "Airbnb",
+      "domains": [
+        "airbnb.com",
+        "airbnb.co.in"
+      ],
+      "category": "Travel"
+    },
+    {
+      "name": "Expedia",
+      "domains": [
+        "expedia.com",
+        "expedia.co.in"
+      ],
+      "category": "Travel"
+    },
+    {
+      "name": "TripAdvisor",
+      "domains": [
+        "tripadvisor.com",
+        "tripadvisor.in"
+      ],
+      "category": "Travel"
+    },
+    {
+      "name": "Agoda",
+      "domains": [
+        "agoda.com"
+      ],
+      "category": "Travel"
+    },
+    {
+      "name": "OYO",
+      "domains": [
+        "oyorooms.com",
+        "oyo.com"
+      ],
+      "category": "Travel India"
+    },
+    {
+      "name": "Treebo",
+      "domains": [
+        "treebo.com"
+      ],
+      "category": "Travel India"
+    },
+    {
+      "name": "Zoom Car",
+      "domains": [
+        "zoomcar.com"
+      ],
+      "category": "Travel India"
+    },
+    {
+      "name": "Ixigo",
+      "domains": [
+        "ixigo.com"
+      ],
+      "category": "Travel India"
+    },
+    {
+      "name": "Cleartrip",
+      "domains": [
+        "cleartrip.com"
+      ],
+      "category": "Travel India"
+    },
+    {
+      "name": "CNN",
+      "domains": [
+        "cnn.com",
+        "edition.cnn.com"
+      ],
+      "category": "News"
+    },
+    {
+      "name": "BBC",
+      "domains": [
+        "bbc.com",
+        "bbc.co.uk",
+        "bbc.in"
+      ],
+      "category": "News"
+    },
+    {
+      "name": "Times of India",
+      "domains": [
+        "timesofindia.com",
+        "toi.com"
+      ],
+      "category": "News India"
+    },
+    {
+      "name": "NDTV",
+      "domains": [
+        "ndtv.com"
+      ],
+      "category": "News India"
+    },
+    {
+      "name": "Hindustan Times",
+      "domains": [
+        "hindustantimes.com",
+        "ht.com"
+      ],
+      "category": "News India"
+    },
+    {
+      "name": "The Hindu",
+      "domains": [
+        "thehindu.com"
+      ],
+      "category": "News India"
+    },
+    {
+      "name": "India Today",
+      "domains": [
+        "indiatoday.in",
+        "indiatoday.com"
+      ],
+      "category": "News India"
+    },
+    {
+      "name": "Zee News",
+      "domains": [
+        "zeenews.india.com",
+        "zee.com"
+      ],
+      "category": "News India"
+    },
+    {
+      "name": "ABP News",
+      "domains": [
+        "abpnews.com",
+        "abplive.com"
+      ],
+      "category": "News India"
+    },
+    {
+      "name": "Aaj Tak",
+      "domains": [
+        "aajtak.in"
+      ],
+      "category": "News India"
+    },
+    {
+      "name": "Netflix India",
+      "domains": [
+        "netflix.com"
+      ],
+      "category": "Entertainment India"
+    },
+    {
+      "name": "Amazon Prime",
+      "domains": [
+        "primevideo.com",
+        "amazon.com/prime"
+      ],
+      "category": "Entertainment"
+    },
+    {
+      "name": "Disney+",
+      "domains": [
+        "disneyplus.com",
+        "hotstar.com",
+        "disneyplushotstar.com"
+      ],
+      "category": "Entertainment"
+    },
+    {
+      "name": "Hotstar",
+      "domains": [
+        "hotstar.com",
+        "disneyplushotstar.com"
+      ],
+      "category": "Entertainment India"
+    },
+    {
+      "name": "JioCinema",
+      "domains": [
+        "jiocinema.com"
+      ],
+      "category": "Entertainment India"
+    },
+    {
+      "name": "SonyLIV",
+      "domains": [
+        "sonyliv.com"
+      ],
+      "category": "Entertainment India"
+    },
+    {
+      "name": "MX Player",
+      "domains": [
+        "mxplayer.in",
+        "mxplay.com"
+      ],
+      "category": "Entertainment India"
+    },
+    {
+      "name": "ZEE5",
+      "domains": [
+        "zee5.com"
+      ],
+      "category": "Entertainment India"
+    },
+    {
+      "name": "Voot",
+      "domains": [
+        "voot.com"
+      ],
+      "category": "Entertainment India"
+    },
+    {
+      "name": "ALTBalaji",
+      "domains": [
+        "altbalaji.com"
+      ],
+      "category": "Entertainment India"
+    },
+    {
+      "name": "WordPress",
+      "domains": [
+        "wordpress.com",
+        "wordpress.org",
+        "wp.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "GoDaddy",
+      "domains": [
+        "godaddy.com",
+        "godaddy.in",
+        "secureserver.net"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Namecheap",
+      "domains": [
+        "namecheap.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Cloudflare",
+      "domains": [
+        "cloudflare.com",
+        "cloudflareinsights.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "AWS",
+      "domains": [
+        "aws.amazon.com",
+        "amazonaws.com",
+        "awsstatic.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Azure",
+      "domains": [
+        "azure.com",
+        "azure.microsoft.com",
+        "azureedge.net"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Google Cloud",
+      "domains": [
+        "cloud.google.com",
+        "googleapis.com",
+        "googlecloud.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Heroku",
+      "domains": [
+        "heroku.com",
+        "herokuapp.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "DigitalOcean",
+      "domains": [
+        "digitalocean.com",
+        "do.co"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Linode",
+      "domains": [
+        "linode.com",
+        "akamai.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Twilio",
+      "domains": [
+        "twilio.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "SendGrid",
+      "domains": [
+        "sendgrid.com",
+        "sendgrid.net"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Mailgun",
+      "domains": [
+        "mailgun.com",
+        "mailgun.net"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Figma",
+      "domains": [
+        "figma.com"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Canva",
+      "domains": [
+        "canva.com",
+        "canva.in"
+      ],
+      "category": "Tech"
+    },
+    {
+      "name": "Coursera",
+      "domains": [
+        "coursera.org",
+        "coursera.com"
+      ],
+      "category": "Education"
+    },
+    {
+      "name": "Udemy",
+      "domains": [
+        "udemy.com"
+      ],
+      "category": "Education"
+    },
+    {
+      "name": "edX",
+      "domains": [
+        "edx.org"
+      ],
+      "category": "Education"
+    },
+    {
+      "name": "Khan Academy",
+      "domains": [
+        "khanacademy.org"
+      ],
+      "category": "Education"
+    },
+    {
+      "name": "Duolingo",
+      "domains": [
+        "duolingo.com"
+      ],
+      "category": "Education"
+    },
+    {
+      "name": "BYJU'S",
+      "domains": [
+        "byjus.com",
+        "byjus.in"
+      ],
+      "category": "Education India"
+    },
+    {
+      "name": "Unacademy",
+      "domains": [
+        "unacademy.com"
+      ],
+      "category": "Education India"
+    },
+    {
+      "name": "Vedantu",
+      "domains": [
+        "vedantu.com"
+      ],
+      "category": "Education India"
+    },
+    {
+      "name": "Toppr",
+      "domains": [
+        "toppr.com"
+      ],
+      "category": "Education India"
+    },
+    {
+      "name": "Simplilearn",
+      "domains": [
+        "simplilearn.com"
+      ],
+      "category": "Education India"
+    },
+    {
+      "name": "UpGrad",
+      "domains": [
+        "upgrad.com"
+      ],
+      "category": "Education India"
+    },
+    {
+      "name": "Great Learning",
+      "domains": [
+        "greatlearning.in",
+        "greatlearning.com"
+      ],
+      "category": "Education India"
+    },
+    {
+      "name": "NPTEL",
+      "domains": [
+        "nptel.ac.in",
+        "swayam.gov.in"
+      ],
+      "category": "Education India"
+    },
+    {
+      "name": "Practo",
+      "domains": [
+        "practo.com"
+      ],
+      "category": "Health India"
+    },
+    {
+      "name": "1mg",
+      "domains": [
+        "1mg.com",
+        "tata1mg.com"
+      ],
+      "category": "Health India"
+    },
+    {
+      "name": "PharmEasy",
+      "domains": [
+        "pharmeasy.in"
+      ],
+      "category": "Health India"
+    },
+    {
+      "name": "Netmeds",
+      "domains": [
+        "netmeds.com"
+      ],
+      "category": "Health India"
+    },
+    {
+      "name": "Apollo Pharmacy",
+      "domains": [
+        "apollopharmacy.in",
+        "apollohospitals.com"
+      ],
+      "category": "Health India"
+    },
+    {
+      "name": "Lenskart",
+      "domains": [
+        "lenskart.com"
+      ],
+      "category": "Ecommerce India"
+    },
+    {
+      "name": "Urban Ladder",
+      "domains": [
+        "urbanladder.com"
+      ],
+      "category": "Ecommerce India"
+    },
+    {
+      "name": "Pepperfry",
+      "domains": [
+        "pepperfry.com"
+      ],
+      "category": "Ecommerce India"
+    },
+    {
+      "name": "FirstCry",
+      "domains": [
+        "firstcry.com"
+      ],
+      "category": "Ecommerce India"
+    },
+    {
+      "name": "Mamaearth",
+      "domains": [
+        "mamaearth.in"
+      ],
+      "category": "Ecommerce India"
+    },
+    {
+      "name": "boAt",
+      "domains": [
+        "boat-lifestyle.com"
+      ],
+      "category": "Tech India"
+    },
+    {
+      "name": "Noise",
+      "domains": [
+        "gonoise.com"
+      ],
+      "category": "Tech India"
+    },
+    {
+      "name": "Sugar Cosmetics",
+      "domains": [
+        "sugarcosmetics.com"
+      ],
+      "category": "Ecommerce India"
+    },
+    {
+      "name": "Wow Skin Science",
+      "domains": [
+        "wowskinscience.com"
+      ],
+      "category": "Ecommerce India"
+    },
+    {
+      "name": "Tanishq",
+      "domains": [
+        "tanishq.co.in"
+      ],
+      "category": "Ecommerce India"
+    },
+    {
+      "name": "Malabar Gold",
+      "domains": [
+        "malabargoldanddiamonds.com"
+      ],
+      "category": "Ecommerce India"
+    },
+    {
+      "name": "FoodPanda",
+      "domains": [
+        "foodpanda.com",
+        "foodpanda.in"
+      ],
+      "category": "Food"
+    },
+    {
+      "name": "Dominos",
+      "domains": [
+        "dominos.co.in",
+        "dominos.com"
+      ],
+      "category": "Food India"
+    },
+    {
+      "name": "Pizza Hut",
+      "domains": [
+        "pizzahut.co.in",
+        "pizzahut.com"
+      ],
+      "category": "Food"
+    },
+    {
+      "name": "McDonald's",
+      "domains": [
+        "mcdonalds.com",
+        "mcdindia.com"
+      ],
+      "category": "Food"
+    },
+    {
+      "name": "KFC",
+      "domains": [
+        "kfc.com",
+        "kfcindia.com"
+      ],
+      "category": "Food"
+    },
+    {
+      "name": "Subway",
+      "domains": [
+        "subway.com",
+        "subway.co.in"
+      ],
+      "category": "Food"
+    },
+    {
+      "name": "Starbucks",
+      "domains": [
+        "starbucks.com",
+        "starbucks.in"
+      ],
+      "category": "Food"
+    },
+    {
+      "name": "Box8",
+      "domains": [
+        "box8.in"
+      ],
+      "category": "Food India"
+    },
+    {
+      "name": "Faasos",
+      "domains": [
+        "faasos.com",
+        "rebel.foods"
+      ],
+      "category": "Food India"
+    },
+    {
+      "name": "EatSure",
+      "domains": [
+        "eatsure.com"
+      ],
+      "category": "Food India"
+    },
+    {
+      "name": "Porter",
+      "domains": [
+        "porter.in"
+      ],
+      "category": "Logistics India"
+    },
+    {
+      "name": "Delhivery",
+      "domains": [
+        "delhivery.com"
+      ],
+      "category": "Logistics India"
+    },
+    {
+      "name": "BlueDart",
+      "domains": [
+        "bluedart.com"
+      ],
+      "category": "Logistics India"
+    },
+    {
+      "name": "DTDC",
+      "domains": [
+        "dtdc.com",
+        "dtdc.in"
+      ],
+      "category": "Logistics India"
+    },
+    {
+      "name": "Ecom Express",
+      "domains": [
+        "ecomexpress.in"
+      ],
+      "category": "Logistics India"
+    },
+    {
+      "name": "Xpressbees",
+      "domains": [
+        "xpressbees.com"
+      ],
+      "category": "Logistics India"
+    },
+    {
+      "name": "Shadowfax",
+      "domains": [
+        "shadowfax.in"
+      ],
+      "category": "Logistics India"
+    },
+    {
+      "name": "Urban Company",
+      "domains": [
+        "urbancompany.com",
+        "urbanclap.com"
+      ],
+      "category": "Services India"
+    },
+    {
+      "name": "NoBroker",
+      "domains": [
+        "nobroker.in",
+        "nobroker.com"
+      ],
+      "category": "Real Estate India"
+    },
+    {
+      "name": "99acres",
+      "domains": [
+        "99acres.com"
+      ],
+      "category": "Real Estate India"
+    },
+    {
+      "name": "MagicBricks",
+      "domains": [
+        "magicbricks.com"
+      ],
+      "category": "Real Estate India"
+    },
+    {
+      "name": "Housing.com",
+      "domains": [
+        "housing.com"
+      ],
+      "category": "Real Estate India"
+    },
+    {
+      "name": "Square Yards",
+      "domains": [
+        "squareyards.com"
+      ],
+      "category": "Real Estate India"
+    },
+    {
+      "name": "Quikr",
+      "domains": [
+        "quikr.com"
+      ],
+      "category": "Classifieds India"
+    },
+    {
+      "name": "OLX",
+      "domains": [
+        "olx.in",
+        "olx.com"
+      ],
+      "category": "Classifieds India"
+    },
+    {
+      "name": "IndiaMART",
+      "domains": [
+        "indiamart.com"
+      ],
+      "category": "B2B India"
+    },
+    {
+      "name": "TradeIndia",
+      "domains": [
+        "tradeindia.com"
+      ],
+      "category": "B2B India"
+    },
+    {
+      "name": "JustDial",
+      "domains": [
+        "justdial.com"
+      ],
+      "category": "Services India"
+    },
+    {
+      "name": "Sulekha",
+      "domains": [
+        "sulekha.com"
+      ],
+      "category": "Services India"
+    },
+    {
+      "name": "Naukri",
+      "domains": [
+        "naukri.com",
+        "infoedge.in"
+      ],
+      "category": "Jobs India"
+    },
+    {
+      "name": "Indeed",
+      "domains": [
+        "indeed.com",
+        "indeed.co.in"
+      ],
+      "category": "Jobs"
+    },
+    {
+      "name": "Monster",
+      "domains": [
+        "monster.com",
+        "monsterindia.com"
+      ],
+      "category": "Jobs"
+    },
+    {
+      "name": "Shine",
+      "domains": [
+        "shine.com"
+      ],
+      "category": "Jobs India"
+    },
+    {
+      "name": "TimesJobs",
+      "domains": [
+        "timesjobs.com"
+      ],
+      "category": "Jobs India"
+    },
+    {
+      "name": "Freshworks",
+      "domains": [
+        "freshworks.com",
+        "freshdesk.com"
+      ],
+      "category": "Tech India"
+    },
+    {
+      "name": "Zoho",
+      "domains": [
+        "zoho.com",
+        "zohocrm.com",
+        "zohocorp.com"
+      ],
+      "category": "Tech India"
+    },
+    {
+      "name": "Tata Consultancy",
+      "domains": [
+        "tcs.com"
+      ],
+      "category": "IT India"
+    },
+    {
+      "name": "Bajaj Finance",
+      "domains": [
+        "bajajfinserv.in",
+        "bajajfinance.in",
+        "bajajfinserv.com"
+      ],
+      "category": "Finance India"
+    },
+    {
+      "name": "Muthoot Finance",
+      "domains": [
+        "muthootfinance.com",
+        "muthoot.com"
+      ],
+      "category": "Finance India"
+    },
+    {
+      "name": "Mannapuram Finance",
+      "domains": [
+        "manappuram.com"
+      ],
+      "category": "Finance India"
+    },
+    {
+      "name": "IIFL Finance",
+      "domains": [
+        "iifl.com",
+        "indiainfoline.com"
+      ],
+      "category": "Finance India"
+    },
+    {
+      "name": "Shriram Finance",
+      "domains": [
+        "shriramfinance.in",
+        "shriram.com"
+      ],
+      "category": "Finance India"
+    },
+    {
+      "name": "CASHe",
+      "domains": [
+        "cashe.co.in"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "MoneyTap",
+      "domains": [
+        "moneytap.com"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "EarlySalary",
+      "domains": [
+        "earlysalary.com"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "KreditBee",
+      "domains": [
+        "kreditbee.in"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "Slice",
+      "domains": [
+        "sliceit.com",
+        "sliceit.in"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "Jupiter",
+      "domains": [
+        "jupitermoney.com",
+        "jupiter.money"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "Fi Money",
+      "domains": [
+        "fi.money"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "Niyo",
+      "domains": [
+        "niyo.co"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "Open Money",
+      "domains": [
+        "open.money"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "Khatabook",
+      "domains": [
+        "khatabook.com"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "OkCredit",
+      "domains": [
+        "okcredit.in",
+        "okcredit.com"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "BharatPe",
+      "domains": [
+        "bharatpe.com",
+        "bharatpe.in"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "Pine Labs",
+      "domains": [
+        "pinelabs.com"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "Innoviti",
+      "domains": [
+        "innoviti.com"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "MSwipe",
+      "domains": [
+        "mswipe.com"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "Cashfree",
+      "domains": [
+        "cashfree.com"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "PayU",
+      "domains": [
+        "payu.in",
+        "payu.com"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "CCAvenue",
+      "domains": [
+        "ccavenue.com"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "Instamojo",
+      "domains": [
+        "instamojo.com"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "Digibank DBS",
+      "domains": [
+        "dbs.com",
+        "digibank.id",
+        "dbs.in"
+      ],
+      "category": "Banking"
+    },
+    {
+      "name": "Standard Chartered",
+      "domains": [
+        "sc.com",
+        "standardchartered.com",
+        "standardchartered.co.in"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Saraswat Bank",
+      "domains": [
+        "saraswatbank.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Karur Vysya Bank",
+      "domains": [
+        "kvb.co.in",
+        "kvbnet.co.in",
+        "kvbank.in"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "South Indian Bank",
+      "domains": [
+        "southindianbank.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Lakshmi Vilas Bank",
+      "domains": [
+        "lvbank.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Karnataka Bank",
+      "domains": [
+        "karnatakabank.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Nainital Bank",
+      "domains": [
+        "nainitalbank.co.in"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Jammu Kashmir Bank",
+      "domains": [
+        "jkbank.com",
+        "jkbank.in"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Bandhan Bank",
+      "domains": [
+        "bandhanbank.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "AU Small Finance Bank",
+      "domains": [
+        "aubank.in"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Ujjivan Small Finance",
+      "domains": [
+        "ujjivansfb.in",
+        "ujjivan.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Equitas Small Finance",
+      "domains": [
+        "equitasbank.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Jana Small Finance",
+      "domains": [
+        "janabank.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Suryoday Small Finance",
+      "domains": [
+        "suryodaybank.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "ESAF Small Finance",
+      "domains": [
+        "esafbank.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Fincare Small Finance",
+      "domains": [
+        "fincarebank.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Capital Small Finance",
+      "domains": [
+        "capitalbank.co.in"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "North East Small Finance",
+      "domains": [
+        "nesfb.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Unity Small Finance",
+      "domains": [
+        "unitysb.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "India Post Payments",
+      "domains": [
+        "ippbonline.com",
+        "ippb.in"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Airtel Payments Bank",
+      "domains": [
+        "airtel.in/bank"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Jio Payments Bank",
+      "domains": [
+        "jio.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Fino Payments Bank",
+      "domains": [
+        "finobank.com",
+        "finopaytech.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Paytm Payments Bank",
+      "domains": [
+        "paytmbank.com"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "NSDL Payments Bank",
+      "domains": [
+        "nsdlbank.com",
+        "nsdlpayments.co.in"
+      ],
+      "category": "Banking India"
+    },
+    {
+      "name": "Vodafone MPesa",
+      "domains": [
+        "vodafone.in",
+        "mpesa.in"
+      ],
+      "category": "Fintech India"
+    },
+    {
+      "name": "Western Union",
+      "domains": [
+        "westernunion.com",
+        "westernunion.co.in"
+      ],
+      "category": "Finance"
+    },
+    {
+      "name": "MoneyGram",
+      "domains": [
+        "moneygram.com"
+      ],
+      "category": "Finance"
+    },
+    {
+      "name": "TransferWise",
+      "domains": [
+        "wise.com",
+        "transferwise.com"
+      ],
+      "category": "Finance"
+    },
+    {
+      "name": "Remitly",
+      "domains": [
+        "remitly.com"
+      ],
+      "category": "Finance"
+    },
+    {
+      "name": "Xoom",
+      "domains": [
+        "xoom.com"
+      ],
+      "category": "Finance"
+    },
+    {
+      "name": "WorldRemit",
+      "domains": [
+        "worldremit.com"
+      ],
+      "category": "Finance"
+    },
+    {
+      "name": "Paysend",
+      "domains": [
+        "paysend.com"
+      ],
+      "category": "Finance"
+    },
+    {
+      "name": "InstaReM",
+      "domains": [
+        "instarem.com"
+      ],
+      "category": "Finance"
+    },
+    {
+      "name": "BookMyShow",
+      "domains": [
+        "bookmyshow.com",
+        "bms.com"
+      ],
+      "category": "Entertainment India"
+    },
+    {
+      "name": "PVR Cinemas",
+      "domains": [
+        "pvrcinemas.com",
+        "pvrinox.com"
+      ],
+      "category": "Entertainment India"
+    },
+    {
+      "name": "Inox Movies",
+      "domains": [
+        "inoxmovies.com",
+        "pvrinox.com"
+      ],
+      "category": "Entertainment India"
+    },
+    {
+      "name": "Saavn JioSaavn",
+      "domains": [
+        "jiosaavn.com",
+        "saavn.com"
+      ],
+      "category": "Entertainment India"
+    },
+    {
+      "name": "Gaana",
+      "domains": [
+        "gaana.com"
+      ],
+      "category": "Entertainment India"
+    },
+    {
+      "name": "Wynk Music",
+      "domains": [
+        "wynk.in"
+      ],
+      "category": "Entertainment India"
+    },
+    {
+      "name": "Hungama",
+      "domains": [
+        "hungama.com"
+      ],
+      "category": "Entertainment India"
+    },
+    {
+      "name": "Resso",
+      "domains": [
+        "resso.com"
+      ],
+      "category": "Entertainment"
+    },
+    {
+      "name": "Apple Music",
+      "domains": [
+        "music.apple.com",
+        "itunes.apple.com"
+      ],
+      "category": "Entertainment"
+    },
+    {
+      "name": "Amazon Music",
+      "domains": [
+        "music.amazon.com",
+        "music.amazon.in"
+      ],
+      "category": "Entertainment"
+    },
+    {
+      "name": "YouTube Music",
+      "domains": [
+        "music.youtube.com"
+      ],
+      "category": "Entertainment"
+    },
+    {
+      "name": "SoundCloud",
+      "domains": [
+        "soundcloud.com"
+      ],
+      "category": "Entertainment"
+    },
+    {
+      "name": "Deezer",
+      "domains": [
+        "deezer.com"
+      ],
+      "category": "Entertainment"
+    },
+    {
+      "name": "Tidal",
+      "domains": [
+        "tidal.com"
+      ],
+      "category": "Entertainment"
+    },
+    {
+      "name": "Pandora",
+      "domains": [
+        "pandora.com"
+      ],
+      "category": "Entertainment"
+    },
+    {
+      "name": "Shazam",
+      "domains": [
+        "shazam.com"
+      ],
+      "category": "Entertainment"
+    },
+    {
+      "name": "ShareChat",
+      "domains": [
+        "sharechat.com",
+        "moj.live"
+      ],
+      "category": "Social India"
+    },
+    {
+      "name": "Josh",
+      "domains": [
+        "josh.app",
+        "dailyhunt.in"
+      ],
+      "category": "Social India"
+    },
+    {
+      "name": "Moj",
+      "domains": [
+        "moj.live"
+      ],
+      "category": "Social India"
+    },
+    {
+      "name": "Roposo",
+      "domains": [
+        "roposo.com"
+      ],
+      "category": "Social India"
+    },
+    {
+      "name": "Chingari",
+      "domains": [
+        "chingari.io"
+      ],
+      "category": "Social India"
+    },
+    {
+      "name": "Koo",
+      "domains": [
+        "kooapp.com",
+        "koo.com"
+      ],
+      "category": "Social India"
+    },
+    {
+      "name": "Clubhouse",
+      "domains": [
+        "joinclubhouse.com"
+      ],
+      "category": "Social"
+    },
+    {
+      "name": "Bumble",
+      "domains": [
+        "bumble.com"
+      ],
+      "category": "Social"
+    },
+    {
+      "name": "Tinder",
+      "domains": [
+        "tinder.com",
+        "gotinder.com"
+      ],
+      "category": "Social"
+    },
+    {
+      "name": "Hinge",
+      "domains": [
+        "hinge.co",
+        "hinge.app"
+      ],
+      "category": "Social"
+    },
+    {
+      "name": "TrulyMadly",
+      "domains": [
+        "trulymadly.com"
+      ],
+      "category": "Social India"
+    },
+    {
+      "name": "Matrimony",
+      "domains": [
+        "matrimony.com",
+        "bharat-matrimony.com",
+        "tamilmatrimony.com"
+      ],
+      "category": "Social India"
+    },
+    {
+      "name": "Shaadi",
+      "domains": [
+        "shaadi.com",
+        "shaadi.in"
+      ],
+      "category": "Social India"
+    },
+    {
+      "name": "JeevanSathi",
+      "domains": [
+        "jeevansathi.com"
+      ],
+      "category": "Social India"
+    },
+    {
+      "name": "Aisle",
+      "domains": [
+        "aisle.co"
+      ],
+      "category": "Social India"
+    },
+    {
+      "name": "WedMeGood",
+      "domains": [
+        "wedmegood.com"
+      ],
+      "category": "Social India"
+    },
+    {
+      "name": "Matrimonials India",
+      "domains": [
+        "matrimonialsiteindia.com"
+      ],
+      "category": "Social India"
+    },
+    {
+      "name": "Coverfox",
+      "domains": [
+        "coverfox.com"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Acko",
+      "domains": [
+        "acko.com"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Digit Insurance",
+      "domains": [
+        "godigit.com"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "TATA AIG",
+      "domains": [
+        "tataaig.com"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "New India Assurance",
+      "domains": [
+        "newindia.co.in"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "National Insurance",
+      "domains": [
+        "nationalinsurance.nic.co.in"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Oriental Insurance",
+      "domains": [
+        "orientalinsurance.org.in"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "United India Insurance",
+      "domains": [
+        "uiic.co.in"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Future Generali",
+      "domains": [
+        "futuregenerali.in"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Reliance General",
+      "domains": [
+        "reliancegeneral.co.in"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "IFFCO Tokio",
+      "domains": [
+        "iffcotokio.co.in"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Cholamandalam",
+      "domains": [
+        "cholamsurance.com",
+        "chola.in"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "SBI General",
+      "domains": [
+        "sbigeneral.in"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "HDFC ERGO",
+      "domains": [
+        "hdfcergo.com"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Bharti AXA",
+      "domains": [
+        "bharti-axagi.com",
+        "bharti-axalife.com"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Exide Life",
+      "domains": [
+        "exidelife.in"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "PNB MetLife",
+      "domains": [
+        "pnbmetlife.com"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Canara HSBC",
+      "domains": [
+        "canarahsbclife.in"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Aditya Birla Sun Life",
+      "domains": [
+        "adityabirlasunlifeinsurance.com",
+        "adityabirlahealth.com"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Max Life Insurance",
+      "domains": [
+        "maxlifeinsurance.com"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Tata AIA",
+      "domains": [
+        "tataaia.com"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Reliance Nippon Life",
+      "domains": [
+        "reliancenipponlife.com"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Edelweiss Tokio Life",
+      "domains": [
+        "edelweisstokiolife.com"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Sahara India Life",
+      "domains": [
+        "saharalife.com"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "IndiaFirst Life",
+      "domains": [
+        "indiafirstlife.com"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Shriram Life Insurance",
+      "domains": [
+        "shriramlife.in"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Ageas Federal Life",
+      "domains": [
+        "ageasfederal.com"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Star Union Dai-ichi",
+      "domains": [
+        "sudlife.in"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Aviva Life Insurance",
+      "domains": [
+        "avivaindia.com"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "DHFL Pramerica",
+      "domains": [
+        "dhflpramerica.com"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Kotak Life Insurance",
+      "domains": [
+        "kotaklife.com"
+      ],
+      "category": "Insurance India"
+    },
+    {
+      "name": "Naukri Gulf",
+      "domains": [
+        "naukrigulf.com"
+      ],
+      "category": "Jobs"
+    },
+    {
+      "name": "Apna",
+      "domains": [
+        "apna.co"
+      ],
+      "category": "Jobs India"
+    },
+    {
+      "name": "Internshala",
+      "domains": [
+        "internshala.com"
+      ],
+      "category": "Jobs India"
+    },
+    {
+      "name": "Instahyre",
+      "domains": [
+        "instahyre.com"
+      ],
+      "category": "Jobs India"
+    },
+    {
+      "name": "iimjobs",
+      "domains": [
+        "iimjobs.com"
+      ],
+      "category": "Jobs India"
+    },
+    {
+      "name": "hirist",
+      "domains": [
+        "hirist.com"
+      ],
+      "category": "Jobs India"
+    },
+    {
+      "name": "Foundit",
+      "domains": [
+        "foundit.in",
+        "monster.com"
+      ],
+      "category": "Jobs India"
+    },
+    {
+      "name": "WorkIndia",
+      "domains": [
+        "workindia.in"
+      ],
+      "category": "Jobs India"
+    },
+    {
+      "name": "Ola Electric",
+      "domains": [
+        "olaelectric.com"
+      ],
+      "category": "EV India"
+    },
+    {
+      "name": "Ather Energy",
+      "domains": [
+        "atherenergy.com"
+      ],
+      "category": "EV India"
+    },
+    {
+      "name": "Revolt Motors",
+      "domains": [
+        "revoltmotors.com"
+      ],
+      "category": "EV India"
+    },
+    {
+      "name": "Hero Electric",
+      "domains": [
+        "heroelectric.in"
+      ],
+      "category": "EV India"
+    },
+    {
+      "name": "Tata Motors",
+      "domains": [
+        "tatamotors.com",
+        "tataev.com"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "Mahindra Electric",
+      "domains": [
+        "mahindra.com",
+        "mahindraelectric.com"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "Maruti Suzuki",
+      "domains": [
+        "marutisuzuki.com",
+        "nexa.com"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "Hyundai India",
+      "domains": [
+        "hyundai.com",
+        "hyundaiindia.com"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "Kia India",
+      "domains": [
+        "kia.com",
+        "kia-india.com"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "Toyota India",
+      "domains": [
+        "toyotabharat.com",
+        "toyota.co.in"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "Honda Cars India",
+      "domains": [
+        "hondacarindia.com"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "Renault India",
+      "domains": [
+        "renaultindia.com"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "Volkswagen India",
+      "domains": [
+        "volkswagenindiagroup.com",
+        "vw.co.in"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "Skoda India",
+      "domains": [
+        "skoda-auto.co.in"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "BMW India",
+      "domains": [
+        "bmw.in",
+        "bmwgroup.in"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "Mercedes India",
+      "domains": [
+        "mercedes-benz.co.in",
+        "mercedes-benz.in"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "Audi India",
+      "domains": [
+        "audi.in"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "Volvo India",
+      "domains": [
+        "volvocars.com"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "Jeep India",
+      "domains": [
+        "jeep-india.com"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "Chrysler",
+      "domains": [
+        "chrysler.com",
+        "fca.com"
+      ],
+      "category": "Auto"
+    },
+    {
+      "name": "Ford",
+      "domains": [
+        "ford.com",
+        "fordindia.com"
+      ],
+      "category": "Auto"
+    },
+    {
+      "name": "General Motors",
+      "domains": [
+        "gm.com",
+        "chevrolet.com"
+      ],
+      "category": "Auto"
+    },
+    {
+      "name": "Tesla",
+      "domains": [
+        "tesla.com"
+      ],
+      "category": "EV"
+    },
+    {
+      "name": "Rivian",
+      "domains": [
+        "rivian.com"
+      ],
+      "category": "EV"
+    },
+    {
+      "name": "Lucid Motors",
+      "domains": [
+        "lucidmotors.com"
+      ],
+      "category": "EV"
+    },
+    {
+      "name": "NIO",
+      "domains": [
+        "nio.com",
+        "nio.cn"
+      ],
+      "category": "EV"
+    },
+    {
+      "name": "BYD",
+      "domains": [
+        "byd.com",
+        "byd.in"
+      ],
+      "category": "EV"
+    },
+    {
+      "name": "Hero MotoCorp",
+      "domains": [
+        "heromotocorp.com",
+        "heromotocorp.in"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "Bajaj Auto",
+      "domains": [
+        "bajajauto.com",
+        "bajajauto.in"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "TVS Motor",
+      "domains": [
+        "tvsmotor.com",
+        "tvsmotor.in"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "Royal Enfield",
+      "domains": [
+        "royalenfield.com"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "Yamaha India",
+      "domains": [
+        "yamaha-motor-india.com"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "Honda Motorcycle",
+      "domains": [
+        "hondamotorcyclescootersindia.com"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "Suzuki Motorcycle",
+      "domains": [
+        "suzukimotorcycle.co.in"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "Kawasaki India",
+      "domains": [
+        "kawasakiindia.com"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "Triumph India",
+      "domains": [
+        "triumphbikes.in"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "Harley Davidson India",
+      "domains": [
+        "harley-davidson.com",
+        "harley-davidsonindia.com"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "Ducati India",
+      "domains": [
+        "ducati.com",
+        "ducatiindia.com"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "KTM India",
+      "domains": [
+        "ktmindia.com",
+        "ktm.com"
+      ],
+      "category": "Auto India"
+    },
+    {
+      "name": "Union Bank of India",
+      "domains": [
+        "unionbankofindia.co.in"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "City Union Bank",
+      "domains": [
+        "cityunionbank.com"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "Ujjivan Small Finance Bank",
+      "domains": [
+        "ujjivansfb.in"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "Central Bank of India",
+      "domains": [
+        "centralbankofindia.co.in"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "Indian Overseas Bank",
+      "domains": [
+        "iob.in"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "UCO Bank",
+      "domains": [
+        "ucobank.com"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "Bank of India",
+      "domains": [
+        "bankofindia.co.in"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "Bank of Maharashtra",
+      "domains": [
+        "bankofmaharashtra.in"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "DCB Bank",
+      "domains": [
+        "dcbbank.com"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "Jammu and Kashmir Bank",
+      "domains": [
+        "jkbank.com"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "Tamilnad Mercantile Bank",
+      "domains": [
+        "tmb.in"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "Dhanlaxmi Bank",
+      "domains": [
+        "dhanbank.com"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "HSBC India",
+      "domains": [
+        "hsbc.co.in"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "Standard Chartered India",
+      "domains": [
+        "sc.com"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "Citibank India",
+      "domains": [
+        "citibank.co.in"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "Bajaj Finserv",
+      "domains": [
+        "bajajfinserv.in"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "Manappuram Finance",
+      "domains": [
+        "manappuram.com"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "Tata Capital",
+      "domains": [
+        "tatacapital.com"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "Aditya Birla Finance",
+      "domains": [
+        "adityabirlacapital.com"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "Cholamandalam Finance",
+      "domains": [
+        "cholamandalam.com"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "Navi",
+      "domains": [
+        "navi.com"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "Fibe",
+      "domains": [
+        "fibe.in"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "NPCI",
+      "domains": [
+        "npci.org.in"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "Star Health Insurance",
+      "domains": [
+        "starhealth.in"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "ICICI Lombard",
+      "domains": [
+        "icicilombard.com"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "Blinkit",
+      "domains": [
+        "blinkit.com"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "Zepto",
+      "domains": [
+        "zeptonow.com"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "Income Tax Department",
+      "domains": [
+        "incometax.gov.in",
+        "incometaxindia.gov.in"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "GST",
+      "domains": [
+        "gst.gov.in"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "UIDAI",
+      "domains": [
+        "uidai.gov.in"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "Passport Seva",
+      "domains": [
+        "passportindia.gov.in"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "mParivahan",
+      "domains": [
+        "parivahan.gov.in"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "India Post",
+      "domains": [
+        "indiapost.gov.in"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "CoWIN",
+      "domains": [
+        "cowin.gov.in"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "Blue Dart",
+      "domains": [
+        "bluedart.com"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "Meta",
+      "domains": [
+        "meta.com",
+        "facebook.com"
+      ],
+      "category": "Other"
+    },
+    {
+      "name": "National Cyber Crime Reporting Portal",
+      "domains": [
+        "cybercrime.gov.in"
+      ],
+      "category": "Police/Cybercrime"
+    },
+    {
+      "name": "Delhi Police",
+      "domains": [
+        "delhipolice.gov.in",
+        "delhipolice.nic.in"
+      ],
+      "category": "Police"
+    },
+    {
+      "name": "Mumbai Police",
+      "domains": [
+        "mumbaipolice.gov.in"
+      ],
+      "category": "Police"
+    },
+    {
+      "name": "Karnataka State Police",
+      "domains": [
+        "ksp.karnataka.gov.in",
+        "karnatakapolice.gov.in"
+      ],
+      "category": "Police"
+    },
+    {
+      "name": "Tamil Nadu Police",
+      "domains": [
+        "tnpolice.gov.in"
+      ],
+      "category": "Police"
+    },
+    {
+      "name": "CBI",
+      "domains": [
+        "cbi.gov.in"
+      ],
+      "category": "Police/Investigation"
+    },
+    {
+      "name": "NIA",
+      "domains": [
+        "nia.gov.in"
+      ],
+      "category": "Police/Investigation"
+    },
+    {
+      "name": "Enforcement Directorate",
+      "domains": [
+        "enforcementdirectorate.gov.in",
+        "ed.gov.in"
+      ],
+      "category": "Investigation"
+    },
+    {
+      "name": "NCRB",
+      "domains": [
+        "ncrb.gov.in"
+      ],
+      "category": "Police"
+    },
+    {
+      "name": "e-Courts India",
+      "domains": [
+        "ecourts.gov.in"
+      ],
+      "category": "Judiciary"
+    },
+    {
+      "name": "Supreme Court of India",
+      "domains": [
+        "sci.gov.in",
+        "main.sci.gov.in"
+      ],
+      "category": "Judiciary"
+    },
+    {
+      "name": "National Consumer Helpline",
+      "domains": [
+        "consumerhelpline.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "Election Commission of India",
+      "domains": [
+        "eci.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "National Voter Service Portal",
+      "domains": [
+        "nvsp.in",
+        "voters.eci.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "Ministry of Home Affairs",
+      "domains": [
+        "mha.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "Ministry of Defence",
+      "domains": [
+        "mod.gov.in"
+      ],
+      "category": "Defence"
+    },
+    {
+      "name": "Indian Army",
+      "domains": [
+        "indianarmy.nic.in"
+      ],
+      "category": "Defence"
+    },
+    {
+      "name": "Indian Navy",
+      "domains": [
+        "indiannavy.nic.in"
+      ],
+      "category": "Defence"
+    },
+    {
+      "name": "Indian Air Force",
+      "domains": [
+        "indianairforce.nic.in"
+      ],
+      "category": "Defence"
+    },
+    {
+      "name": "DRDO",
+      "domains": [
+        "drdo.gov.in"
+      ],
+      "category": "Defence"
+    },
+    {
+      "name": "ISRO",
+      "domains": [
+        "isro.gov.in"
+      ],
+      "category": "PSU/Space"
+    },
+    {
+      "name": "ONGC",
+      "domains": [
+        "ongcindia.com"
+      ],
+      "category": "PSU/Energy"
+    },
+    {
+      "name": "NTPC",
+      "domains": [
+        "ntpc.co.in"
+      ],
+      "category": "PSU/Energy"
+    },
+    {
+      "name": "Indian Oil Corporation",
+      "domains": [
+        "iocl.com",
+        "iocl.in"
+      ],
+      "category": "PSU/Energy"
+    },
+    {
+      "name": "Bharat Petroleum",
+      "domains": [
+        "bharatpetroleum.in",
+        "bharatpetroleum.com"
+      ],
+      "category": "PSU/Energy"
+    },
+    {
+      "name": "Hindustan Petroleum",
+      "domains": [
+        "hindustanpetroleum.com",
+        "hpcl.co.in"
+      ],
+      "category": "PSU/Energy"
+    },
+    {
+      "name": "GAIL India",
+      "domains": [
+        "gailonline.com"
+      ],
+      "category": "PSU/Energy"
+    },
+    {
+      "name": "Indane Gas",
+      "domains": [
+        "indane.co.in",
+        "iocl.com"
+      ],
+      "category": "Utility"
+    },
+    {
+      "name": "Bharat Gas",
+      "domains": [
+        "ebharatgas.com"
+      ],
+      "category": "Utility"
+    },
+    {
+      "name": "HP Gas",
+      "domains": [
+        "myhpgas.in"
+      ],
+      "category": "Utility"
+    },
+    {
+      "name": "Steel Authority of India",
+      "domains": [
+        "sail.co.in"
+      ],
+      "category": "PSU/Industrial"
+    },
+    {
+      "name": "Coal India",
+      "domains": [
+        "coalindia.in"
+      ],
+      "category": "PSU/Industrial"
+    },
+    {
+      "name": "NHPC",
+      "domains": [
+        "nhpcindia.com"
+      ],
+      "category": "PSU/Energy"
+    },
+    {
+      "name": "Power Grid Corporation",
+      "domains": [
+        "powergrid.in"
+      ],
+      "category": "PSU/Energy"
+    },
+    {
+      "name": "BHEL",
+      "domains": [
+        "bhel.com"
+      ],
+      "category": "PSU/Industrial"
+    },
+    {
+      "name": "BESCOM",
+      "domains": [
+        "bescom.karnataka.gov.in",
+        "bescom.co.in"
+      ],
+      "category": "Utility"
+    },
+    {
+      "name": "Tata Power",
+      "domains": [
+        "tatapower.com"
+      ],
+      "category": "Utility"
+    },
+    {
+      "name": "Adani Electricity",
+      "domains": [
+        "adanielectricity.com"
+      ],
+      "category": "Utility"
+    },
+    {
+      "name": "BSES Delhi",
+      "domains": [
+        "bsesdelhi.com"
+      ],
+      "category": "Utility"
+    },
+    {
+      "name": "MSEDCL",
+      "domains": [
+        "mahadiscom.in"
+      ],
+      "category": "Utility"
+    },
+    {
+      "name": "Delhi Jal Board",
+      "domains": [
+        "djb.gov.in"
+      ],
+      "category": "Utility"
+    },
+    {
+      "name": "BWSSB",
+      "domains": [
+        "bwssb.karnataka.gov.in",
+        "bwssb.gov.in"
+      ],
+      "category": "Utility"
+    },
+    {
+      "name": "AIIMS",
+      "domains": [
+        "aiims.edu"
+      ],
+      "category": "Healthcare"
+    },
+    {
+      "name": "Apollo Hospitals",
+      "domains": [
+        "apollohospitals.com"
+      ],
+      "category": "Healthcare"
+    },
+    {
+      "name": "Fortis Healthcare",
+      "domains": [
+        "fortishealthcare.com"
+      ],
+      "category": "Healthcare"
+    },
+    {
+      "name": "Max Healthcare",
+      "domains": [
+        "maxhealthcare.in"
+      ],
+      "category": "Healthcare"
+    },
+    {
+      "name": "Manipal Hospitals",
+      "domains": [
+        "manipalhospitals.com"
+      ],
+      "category": "Healthcare"
+    },
+    {
+      "name": "Narayana Health",
+      "domains": [
+        "narayanahealth.org"
+      ],
+      "category": "Healthcare"
+    },
+    {
+      "name": "Medanta",
+      "domains": [
+        "medanta.org"
+      ],
+      "category": "Healthcare"
+    },
+    {
+      "name": "AIIMS Delhi",
+      "domains": [
+        "aiims.edu"
+      ],
+      "category": "Healthcare"
+    },
+    {
+      "name": "Ayushman Bharat",
+      "domains": [
+        "pmjay.gov.in",
+        "abdm.gov.in"
+      ],
+      "category": "Government/Health India"
+    },
+    {
+      "name": "eSanjeevani",
+      "domains": [
+        "esanjeevani.mohfw.gov.in"
+      ],
+      "category": "Government/Health India"
+    },
+    {
+      "name": "Dr Lal PathLabs",
+      "domains": [
+        "lalpathlabs.com"
+      ],
+      "category": "Healthcare"
+    },
+    {
+      "name": "Metropolis Healthcare",
+      "domains": [
+        "metropolisindia.com"
+      ],
+      "category": "Healthcare"
+    },
+    {
+      "name": "SRL Diagnostics",
+      "domains": [
+        "srlworld.com"
+      ],
+      "category": "Healthcare"
+    },
+    {
+      "name": "Sun Pharma",
+      "domains": [
+        "sunpharma.com"
+      ],
+      "category": "Pharma"
+    },
+    {
+      "name": "Cipla",
+      "domains": [
+        "cipla.com"
+      ],
+      "category": "Pharma"
+    },
+    {
+      "name": "Dr Reddy's Laboratories",
+      "domains": [
+        "drreddys.com"
+      ],
+      "category": "Pharma"
+    },
+    {
+      "name": "Lupin",
+      "domains": [
+        "lupin.com"
+      ],
+      "category": "Pharma"
+    },
+    {
+      "name": "Divi's Laboratories",
+      "domains": [
+        "divislabs.com"
+      ],
+      "category": "Pharma"
+    },
+    {
+      "name": "Serum Institute of India",
+      "domains": [
+        "seruminstitute.com"
+      ],
+      "category": "Pharma"
+    },
+    {
+      "name": "Bharat Biotech",
+      "domains": [
+        "bharatbiotech.com"
+      ],
+      "category": "Pharma"
+    },
+    {
+      "name": "Reliance Industries",
+      "domains": [
+        "ril.com"
+      ],
+      "category": "Industrial"
+    },
+    {
+      "name": "Adani Group",
+      "domains": [
+        "adani.com"
+      ],
+      "category": "Industrial"
+    },
+    {
+      "name": "Tata Group",
+      "domains": [
+        "tata.com"
+      ],
+      "category": "Industrial"
+    },
+    {
+      "name": "Aditya Birla Group",
+      "domains": [
+        "adityabirla.com"
+      ],
+      "category": "Industrial"
+    },
+    {
+      "name": "Mahindra Group",
+      "domains": [
+        "mahindra.com"
+      ],
+      "category": "Industrial"
+    },
+    {
+      "name": "Larsen & Toubro",
+      "domains": [
+        "larsentoubro.com",
+        "lntindia.com"
+      ],
+      "category": "Industrial"
+    },
+    {
+      "name": "Godrej Group",
+      "domains": [
+        "godrej.com"
+      ],
+      "category": "Industrial"
+    },
+    {
+      "name": "JSW Group",
+      "domains": [
+        "jsw.in"
+      ],
+      "category": "Industrial"
+    },
+    {
+      "name": "Vedanta",
+      "domains": [
+        "vedantalimited.com"
+      ],
+      "category": "Industrial"
+    },
+    {
+      "name": "Hindustan Unilever",
+      "domains": [
+        "hul.co.in"
+      ],
+      "category": "FMCG"
+    },
+    {
+      "name": "ITC Limited",
+      "domains": [
+        "itcportal.com"
+      ],
+      "category": "FMCG"
+    },
+    {
+      "name": "Nestle India",
+      "domains": [
+        "nestle.in"
+      ],
+      "category": "FMCG"
+    },
+    {
+      "name": "Procter & Gamble India",
+      "domains": [
+        "pg.com"
+      ],
+      "category": "FMCG"
+    },
+    {
+      "name": "Colgate-Palmolive India",
+      "domains": [
+        "colgatepalmolive.co.in"
+      ],
+      "category": "FMCG"
+    },
+    {
+      "name": "Dabur India",
+      "domains": [
+        "dabur.com"
+      ],
+      "category": "FMCG"
+    },
+    {
+      "name": "Patanjali Ayurved",
+      "domains": [
+        "patanjaliayurved.net"
+      ],
+      "category": "FMCG"
+    },
+    {
+      "name": "Britannia Industries",
+      "domains": [
+        "britannia.co.in"
+      ],
+      "category": "FMCG"
+    },
+    {
+      "name": "Marico",
+      "domains": [
+        "marico.com"
+      ],
+      "category": "FMCG"
+    },
+    {
+      "name": "DLF",
+      "domains": [
+        "dlf.in"
+      ],
+      "category": "Real Estate"
+    },
+    {
+      "name": "Godrej Properties",
+      "domains": [
+        "godrejproperties.com"
+      ],
+      "category": "Real Estate"
+    },
+    {
+      "name": "Prestige Group",
+      "domains": [
+        "prestigeconstructions.com"
+      ],
+      "category": "Real Estate"
+    },
+    {
+      "name": "Sobha Limited",
+      "domains": [
+        "sobha.com"
+      ],
+      "category": "Real Estate"
+    },
+    {
+      "name": "Brigade Group",
+      "domains": [
+        "brigadegroup.com"
+      ],
+      "category": "Real Estate"
+    },
+    {
+      "name": "Lodha Group",
+      "domains": [
+        "lodhagroup.com"
+      ],
+      "category": "Real Estate"
+    },
+    {
+      "name": "Oberoi Realty",
+      "domains": [
+        "oberoirealty.com"
+      ],
+      "category": "Real Estate"
+    },
+    {
+      "name": "IIT Delhi",
+      "domains": [
+        "iitd.ac.in"
+      ],
+      "category": "Education/University"
+    },
+    {
+      "name": "IIT Bombay",
+      "domains": [
+        "iitb.ac.in"
+      ],
+      "category": "Education/University"
+    },
+    {
+      "name": "IIT Madras",
+      "domains": [
+        "iitm.ac.in"
+      ],
+      "category": "Education/University"
+    },
+    {
+      "name": "IIM Ahmedabad",
+      "domains": [
+        "iima.ac.in"
+      ],
+      "category": "Education/University"
+    },
+    {
+      "name": "IIM Bangalore",
+      "domains": [
+        "iimb.ac.in"
+      ],
+      "category": "Education/University"
+    },
+    {
+      "name": "Delhi University",
+      "domains": [
+        "du.ac.in"
+      ],
+      "category": "Education/University"
+    },
+    {
+      "name": "JNU",
+      "domains": [
+        "jnu.ac.in"
+      ],
+      "category": "Education/University"
+    },
+    {
+      "name": "UGC",
+      "domains": [
+        "ugc.gov.in",
+        "ugc.ac.in"
+      ],
+      "category": "Education/Government"
+    },
+    {
+      "name": "AICTE",
+      "domains": [
+        "aicte-india.org"
+      ],
+      "category": "Education/Government"
+    },
+    {
+      "name": "NTA (National Testing Agency)",
+      "domains": [
+        "nta.ac.in"
+      ],
+      "category": "Education/Government"
+    },
+    {
+      "name": "UPSC",
+      "domains": [
+        "upsc.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "SSC (Staff Selection Commission)",
+      "domains": [
+        "ssc.nic.in",
+        "ssc.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "IBPS",
+      "domains": [
+        "ibps.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "RRB (Railway Recruitment)",
+      "domains": [
+        "rrbcdg.gov.in",
+        "indianrailways.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "Ministry of Corporate Affairs",
+      "domains": [
+        "mca.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "Ministry of External Affairs",
+      "domains": [
+        "mea.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "FRRO (Immigration)",
+      "domains": [
+        "indianfrro.gov.in",
+        "boi.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "Skill India",
+      "domains": [
+        "skillindia.gov.in",
+        "msde.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "PM Kisan",
+      "domains": [
+        "pmkisan.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "PDS/Ration Card Portal",
+      "domains": [
+        "nfsa.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "e-District",
+      "domains": [
+        "edistrict.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "Municipal Corporation of Delhi",
+      "domains": [
+        "mcdonline.nic.in"
+      ],
+      "category": "Civic/Municipal"
+    },
+    {
+      "name": "BBMP (Bengaluru)",
+      "domains": [
+        "bbmp.gov.in"
+      ],
+      "category": "Civic/Municipal"
+    },
+    {
+      "name": "BMC (Mumbai)",
+      "domains": [
+        "portal.mcgm.gov.in"
+      ],
+      "category": "Civic/Municipal"
+    },
+    {
+      "name": "RTO India",
+      "domains": [
+        "parivahan.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "e-Challan",
+      "domains": [
+        "echallan.parivahan.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "CERT-In",
+      "domains": [
+        "cert-in.org.in"
+      ],
+      "category": "Cybersecurity/Government"
+    },
+    {
+      "name": "SIDBI",
+      "domains": [
+        "sidbi.in"
+      ],
+      "category": "Government/Finance India"
+    },
+    {
+      "name": "NABARD",
+      "domains": [
+        "nabard.org"
+      ],
+      "category": "Government/Finance India"
+    },
+    {
+      "name": "Bharat Sanchar Nigam",
+      "domains": [
+        "bsnl.co.in"
+      ],
+      "category": "Telecom India"
+    },
+    {
+      "name": "Prasar Bharati",
+      "domains": [
+        "prasarbharati.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "Doordarshan",
+      "domains": [
+        "ddindia.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "All India Radio",
+      "domains": [
+        "allindiaradio.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "Red Cross India",
+      "domains": [
+        "indianredcross.org"
+      ],
+      "category": "NGO"
+    },
+    {
+      "name": "CRY (Child Rights and You)",
+      "domains": [
+        "cry.org"
+      ],
+      "category": "NGO"
+    },
+    {
+      "name": "Akshaya Patra Foundation",
+      "domains": [
+        "akshayapatra.org"
+      ],
+      "category": "NGO"
+    },
+    {
+      "name": "Give India",
+      "domains": [
+        "giveindia.org"
+      ],
+      "category": "NGO"
+    },
+    {
+      "name": "PM CARES Fund",
+      "domains": [
+        "pmcares.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "PM National Relief Fund",
+      "domains": [
+        "pmnrf.gov.in"
+      ],
+      "category": "Government India"
+    },
+    {
+      "name": "CoinDesk",
+      "domains": [
+        "coindesk.com"
+      ],
+      "category": "Crypto"
+    },
+    {
+      "name": "Ripple",
+      "domains": [
+        "ripple.com"
+      ],
+      "category": "Crypto"
+    }
+  ],
+  "metadata": {
+    "total_brands": 621,
+    "version": "2.1",
+    "last_updated": "2026",
+    "categories": [
+      "Auto",
+      "Auto India",
+      "B2B India",
+      "Banking",
+      "Banking India",
+      "Civic/Municipal",
+      "Classifieds India",
+      "Crypto",
+      "Cybersecurity/Government",
+      "Defence",
+      "Delivery",
+      "EV",
+      "EV India",
+      "Ecommerce",
+      "Ecommerce India",
+      "Education",
+      "Education India",
+      "Education/Government",
+      "Education/University",
+      "Entertainment",
+      "Entertainment India",
+      "FMCG",
+      "Finance",
+      "Finance India",
+      "Fintech India",
+      "Food",
+      "Food India",
+      "Gaming",
+      "Government India",
+      "Government/Finance India",
+      "Government/Health India",
+      "Health India",
+      "Healthcare",
+      "IT India",
+      "Industrial",
+      "Insurance India",
+      "Investigation",
+      "Jobs",
+      "Jobs India",
+      "Judiciary",
+      "Logistics India",
+      "NGO",
+      "News",
+      "News India",
+      "Other",
+      "PSU/Energy",
+      "PSU/Industrial",
+      "PSU/Space",
+      "Pharma",
+      "Police",
+      "Police/Cybercrime",
+      "Police/Investigation",
+      "Real Estate",
+      "Real Estate India",
+      "Security",
+      "Services India",
+      "Social",
+      "Social India",
+      "Storage",
+      "Tech",
+      "Tech India",
+      "Telecom India",
+      "Transport",
+      "Transport India",
+      "Travel",
+      "Travel India",
+      "Utility"
+    ]
+  }
+}

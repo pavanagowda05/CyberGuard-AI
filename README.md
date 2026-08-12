@@ -1,6 +1,3 @@
-# CyberGuard-AI
-A Unified Multilingual Phishing and Insider Threat Detection Platform 
-
 # CyberGuard AI
 
 A unified multilingual phishing and insider-threat detection platform, built as a capstone project for the M.Tech Computer Science program at REVA University (Batch CS-14, SRN R24TF005).
